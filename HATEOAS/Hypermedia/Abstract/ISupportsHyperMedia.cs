@@ -1,4 +1,4 @@
-﻿namespace HATEOAS.Hypermedia.Abstract
+﻿namespace RH.HATEOAS.Hypermedia.Abstract
 {
     public interface ISupportsHyperMedia
     {

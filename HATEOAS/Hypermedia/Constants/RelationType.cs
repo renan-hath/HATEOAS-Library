@@ -1,4 +1,4 @@
-﻿namespace HATEOAS.Hypermedia.Constants
+﻿namespace RH.HATEOAS.Hypermedia.Constants
 {
     public sealed class RelationType
     {

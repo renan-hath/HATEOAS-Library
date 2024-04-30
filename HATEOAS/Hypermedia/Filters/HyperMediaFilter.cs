@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace HATEOAS.Hypermedia.Filters
+namespace RH.HATEOAS.Hypermedia.Filters
 {
     public class HyperMediaFilter : ResultFilterAttribute
     {

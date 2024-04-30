@@ -1,6 +1,6 @@
-﻿using HATEOAS.Hypermedia.Abstract;
+﻿using RH.HATEOAS.Hypermedia.Abstract;
 
-namespace HATEOAS.Hypermedia.Filters
+namespace RH.HATEOAS.Hypermedia.Filters
 {
     public class HyperMediaFilterOptions
     {

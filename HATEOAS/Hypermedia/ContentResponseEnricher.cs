@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.Routing;
-using HATEOAS.Data.ValueObjects;
-using HATEOAS.Hypermedia.Abstract;
+using RH.HATEOAS.Data.ValueObjects;
+using RH.HATEOAS.Hypermedia.Abstract;
 using System.Collections.Concurrent;
 
-namespace HATEOAS.Hypermedia
+namespace RH.HATEOAS.Hypermedia
 {
     public abstract class ContentResponseEnricher<T> : IResponseEnricher where T : ISupportsHyperMedia
     {

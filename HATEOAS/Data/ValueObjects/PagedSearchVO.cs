@@ -1,6 +1,6 @@
-﻿using HATEOAS.Hypermedia.Abstract;
+﻿using RH.HATEOAS.Hypermedia.Abstract;
 
-namespace HATEOAS.Data.ValueObjects
+namespace RH.HATEOAS.Data.ValueObjects
 {
     public class PagedSearchVO<T> where T : ISupportsHyperMedia
     {

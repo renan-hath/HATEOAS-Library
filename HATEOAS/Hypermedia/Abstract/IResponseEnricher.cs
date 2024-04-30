@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace HATEOAS.Hypermedia.Abstract
+namespace RH.HATEOAS.Hypermedia.Abstract
 {
     public interface IResponseEnricher
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace HATEOAS.Hypermedia
+namespace RH.HATEOAS.Hypermedia
 {
     public class HyperMediaLink
     {
