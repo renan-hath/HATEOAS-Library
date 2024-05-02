@@ -8,7 +8,7 @@
     <PackageProjectUrl>https://github.com/renan-hath/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/renan-hath/</RepositoryUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>8.0.202.2</Version>
+    <Version>8.0.202.3</Version>
   </PropertyGroup>
 
 	<ItemGroup>
